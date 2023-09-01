@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    
+    height: 2.5rem;
+    margin: 1rem;
+    border-radius: 8px;
+  background: #fff;
+  box-sizing: border-box;
+  box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.7);
+}
+
+.footer a{
+    font-weight: 600;
+    color: blueviolet;
+}
